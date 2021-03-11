@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi! 👋
 
 
 🔭 I’m currently working as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles<br/>
