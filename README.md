@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-**souvik0306/souvik0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
 
-
-🔭 I’m currently working on Electric Vehicles
-🌱 I’m currently pursuing a Bachelor's in Electrical and Electronics Engineering
-👯 I’m looking to collaborate on EVs and Power Electronics
-📫 How to reach me: ...
+🔭 I’m currently working as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles<br/>
+🌱 Pursuing a Bachelor's in Electrical and Electronics Engineering <br/>
+👯 I’m looking to collaborate on various MATLAB projects related to Power Electronics domain  <br/>
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-datta03/m)
 
 ![](https://komarev.com/ghpvc/?username=souvik0306)
