@@ -7,7 +7,7 @@ I’m looking to collaborate on various MATLAB based Projects related to Power E
 📫 Feel free to connect with me on - <br/>
 <a href="https://www.linkedin.com/in/souvikdatta03/">
   <img align="left" alt="Souvik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
 
