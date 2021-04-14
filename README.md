@@ -7,7 +7,7 @@
 📫 Feel free to connect with me on LinkedIn- <br/>
 <a href="https://www.linkedin.com/in/souvik-datta03/">
   <img align="left" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></br>
+</a>
 <a href="https://twitter.com/Souvik306">
   <img align="left" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
