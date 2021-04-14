@@ -7,3 +7,5 @@ I’m looking to collaborate on various MATLAB based Projects related to Power E
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-datta03/)
 
 ![](https://komarev.com/ghpvc/?username=souvik0306)
+![Souvik's stats](https://github-readme-stats.vercel.app/api?username=souvik0306)
+
