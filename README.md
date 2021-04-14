@@ -7,10 +7,10 @@
 📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
 📫 Feel free to connect with me on - <br/>
 <a href="https://www.linkedin.com/in/souvik-datta03/">
- LinkedIn - <img align="center" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Souvik306">
- Twitter - <img align="right" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ <img align="left" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
