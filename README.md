@@ -10,7 +10,7 @@
  LinkedIn - <img align="center" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Souvik306">
-  <img align="left" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ Twitter - <img align="right" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
