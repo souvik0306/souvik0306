@@ -10,3 +10,7 @@ I’m looking to collaborate on various MATLAB based Projects related to Power E
 
 ![](https://komarev.com/ghpvc/?username=souvik0306)
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
+
