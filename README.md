@@ -6,7 +6,7 @@
 I’m looking to collaborate on various MATLAB based Projects related to Power Electronics  <br/>
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-datta03/)<br/>
 
-![Souvik's stats]<img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
+<img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=gotham" alt="souvik0306" />
 
 ![](https://komarev.com/ghpvc/?username=souvik0306)
 
