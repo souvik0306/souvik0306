@@ -1,9 +1,9 @@
 ### Hi, I'm Souvik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering <br/>
-🔭 Presently, I’m working as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles<br/>
-⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics  <br/>
+🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering. <br/>
+🔭 Presently, I’m working as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
+⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics. <br/>
 📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
 📫 Feel free to connect with me on - <br/>
 <a href="https://www.linkedin.com/in/souvik-datta03/">
