@@ -6,18 +6,19 @@
 ⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics. <br/>
 📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
 📫 Feel free to connect with me on - <br/>
-<a href="https://www.linkedin.com/in/souvik-datta03/">
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
+[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Souvik306)
+
+<!--<a href="https://www.linkedin.com/in/souvik-datta03/">
 <img align="left" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Souvik306">
  <img align="left" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a></br>
+</a></br>--1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=algolia" alt="souvik0306" />
  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik0306&layout=compact&langs_count=8&theme=algolia"/>
 
 ![](https://komarev.com/ghpvc/?username=souvik0306)
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faresmetidji/)
-[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)]
