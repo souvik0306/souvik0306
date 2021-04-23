@@ -19,3 +19,5 @@
 ![](https://komarev.com/ghpvc/?username=souvik0306)
 
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faresmetidji/)
+[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/faresmetidji/)
