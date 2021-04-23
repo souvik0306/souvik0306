@@ -16,7 +16,7 @@
 </a>
 <a href="https://twitter.com/Souvik306">
  <img align="left" alt="Souvik Datta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a></br>--1>
+</a></br>--!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=algolia" alt="souvik0306" />
  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik0306&layout=compact&langs_count=8&theme=algolia"/>
