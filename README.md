@@ -8,7 +8,7 @@
 📫 Feel free to connect with me on - <br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=navy)](https://www.linkedin.com/in/souvik-datta03/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Souvik306)
 
 <!---<a href="https://www.linkedin.com/in/souvik-datta03/">
