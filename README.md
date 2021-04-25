@@ -5,7 +5,7 @@
 🔭 Presently, I’m working as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
 ⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics. <br/>
 📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
-📫 Feel free to connect with me on  <br/>
+📫 Feel free to connect with me on - <br/>
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
