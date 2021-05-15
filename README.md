@@ -22,3 +22,4 @@
  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik0306&layout=compact&langs_count=8&theme=algolia"/>
 <!--![](https://komarev.com/ghpvc/?username=souvik0306)-->
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvik0306&theme=react-dark)](https://github.com/souvik0306/github-readme-activity-graph)
