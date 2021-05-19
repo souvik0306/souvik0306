@@ -6,8 +6,8 @@
 ⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics and Robotics. <br/>
 
 📧 Email-ID : 
-1. Personal: <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
-2. Work: <a href="souvik.datta2019@vitstudent.ac.in">souvik.datta2019@vitstudent.ac.in</a>
+1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
+2. Work - <a href="souvik.datta2019@vitstudent.ac.in">souvik.datta2019@vitstudent.ac.in</a>
                
 📫 Feel free to connect with me on - <br/>
 
