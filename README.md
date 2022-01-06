@@ -3,7 +3,7 @@
 
 🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering. <br/>
 🔭 I worked as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
-⏳ I’m looking to collaborate on various MATLAB based Projects related to Power Electronics and Robotics. <br/>
+⏳ I’m looking to collaborate on various Projects related to Robotics. <br/>
 
 📧 Email-ID : 
 1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
