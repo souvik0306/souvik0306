@@ -1,4 +1,4 @@
-### Hi, I'm Souvik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Souvik! 
 
 
 🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering. <br/>
