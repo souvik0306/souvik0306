@@ -2,8 +2,8 @@
 
 
 🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering. <br/>
-🔭 I worked as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
-⏳ I’m looking to collaborate on various Projects related to Robotics. <br/>
+🔭 I worked as a Computer Vision Intern at OmniPresent Robot Technologies and as a Research Intern IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
+⏳ I’m looking to collaborate on various Projects related to Machine Learning, Deep Learning and Robotics. <br/>
 
 📧 Email-ID : 
 1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
