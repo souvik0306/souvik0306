@@ -1,16 +1,15 @@
 ### Hi, I'm Souvik! 
 
 
-🌱 I'm currently pursuing a Bachelor's in Electrical and Electronics Engineering. <br/>
-🔭 I have worked as a Computer Vision Intern at OmniPresent Robot Technologies and as a Research Intern at IIT-BHU on Charging Technologies for Electric Vehicles. <br/>
-⏳ I’m looking to collaborate on various Projects related to Machine Learning, Deep Learning, Computer Vision and Robotics. <br/>
+🌱 I hold a Bachelor's degree in Electrical and Electronics Engineering.
+🔭 I worked as a software developer at QBlocks, focusing on Generative AI APIs.
+⏳ I'm eager to collaborate on projects involving Machine Learning, Deep Learning, Computer Vision, and Robotics.
 
 📧 Email-ID : 
 1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
 2. Work - <a href="souvik.datta2019@vitstudent.ac.in">souvik.datta2019@vitstudent.ac.in</a>
                
 📫 Feel free to connect with me on - <br/>
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Souvik306)
@@ -24,5 +23,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=souvik0306&show_icons=true&theme=algolia" alt="souvik0306" />      
  -->
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik0306&layout=compact&langs_count=8&theme=algolia"/>
 
