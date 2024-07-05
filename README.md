@@ -1,9 +1,12 @@
 ### Hi, I'm Souvik! 
 
+I am a Graduate student in Electrical Engineering at the National University of Singapore. I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
 
-🌱 I hold a Bachelor's degree in Electrical and Electronics Engineering.
-🔭 I worked as a software developer at QBlocks, focusing on Generative AI APIs.
-⏳ I'm eager to collaborate on projects involving Machine Learning, Deep Learning, Computer Vision, and Robotics.
+Before my graduate studies, I developed Deep Learning models for drones at Omnipresent Robot Technologies in New Delhi. Subsequently, I interned with PT Kaltim Prima Coal in Indonesia, where I led a UAV project that increased revenue by $1.26 million.
+
+At VIT, I collaborated on AI, Robotics, and Electrical Engineering research projects with my professors. My accomplishments include placing 10th in the electric BAJA SAE competition, winning the Aerospace Quiz League, and contributing to open-source projects. I also participated in various community initiatives as a Student Member of the Youth Red Cross.
+
+I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect and explore the possibilities together.
 
 📧 Email-ID : 
 1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
