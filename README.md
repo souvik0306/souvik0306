@@ -10,6 +10,7 @@ I am eager to contribute to innovative projects in AI, Robotics, and Aviation. I
 
 📧 Email-ID : 
 1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>                 
+
 📫 Feel free to connect with me on - <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
