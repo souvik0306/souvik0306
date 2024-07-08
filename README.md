@@ -9,9 +9,7 @@ At VIT, I collaborated on AI, Robotics, and Electrical Engineering research proj
 I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect and explore the possibilities together.
 
 📧 Email-ID : 
-1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>  
-2. Work - <a href="souvik.datta2019@vitstudent.ac.in">souvik.datta2019@vitstudent.ac.in</a>
-               
+1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>                 
 📫 Feel free to connect with me on - <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/souvik-datta03/)
