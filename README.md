@@ -1,6 +1,6 @@
 ### Hi, I'm Souvik! 
 
-I am a Graduate student in Electrical Engineering at the National University of Singapore. I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
+I am a Graduate student in Electrical Engineering at the National University of Singapore (NUS). I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
 
 Before my graduate studies, I developed Deep Learning models for drones at Omnipresent Robot Technologies in New Delhi. Subsequently, I interned with PT Kaltim Prima Coal in Indonesia, where I led a UAV project that increased revenue by $1.26 million.
 
