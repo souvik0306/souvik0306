@@ -4,8 +4,7 @@ I am a Graduate student in Electrical Engineering at the National University of 
 
 I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect
 
-📧 Email-ID : 
-1. Personal - <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>                 
+📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>                 
 
 📫 Feel free to connect with me on - <br/>
 
