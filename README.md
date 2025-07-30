@@ -2,9 +2,7 @@
 
 I am a Graduate student in Electrical Engineering at the National University of Singapore (NUS). I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
 
-I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect
-
-📧 Email-ID : <a href="souvikdatta123@gmail.com">souvikdatta123@gmail.com</a>                 
+I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect!
 
 📫 Feel free to connect with me on - <br/>
 
