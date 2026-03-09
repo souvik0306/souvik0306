@@ -1,6 +1,8 @@
 ### Hi, I'm Souvik! 
 
-I am a Graduate student in Electrical Engineering at the National University of Singapore (NUS). I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
+I am a Graduate student in Electrical Engineering at the National University of Singapore (NUS). I presently work as a Research Intern at the [Temasek Laboratories](https://temasek-labs.nus.edu.sg/). My work involves developing learning-based IMU dead-reckoning for UAVs and integrating real-time IMU correction with PX4 to achieve reliable localization in GPS-denied environments.
+
+I hold a B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Chennai, and have previously worked as a Software Developer at QBlocks.
 
 I am eager to contribute to innovative projects in AI, Robotics, and Aviation. If you share similar interests or have a project in mind, let's connect!
 
